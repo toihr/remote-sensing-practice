@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Data (raw satellite files are hundreds of GB and are not versioned)
+data/
+
+# Python / environments
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE / tooling
+.idea/
+.claude/

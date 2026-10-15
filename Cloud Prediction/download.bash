@@ -1,0 +1,1 @@
+uv run eumdac download --collection EO:EUM:DAT:MSG:CLM --start 2025-05-01T00:00:00 --end 2025-06-30T23:59:59 -o "data/cloud-prediction/2025-05 to 06" -t 4
